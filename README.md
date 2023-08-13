@@ -6,4 +6,4 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-[![Nukchix's GitHub stats](https://github-readme-stats.vercel.app/api?username=nukchix)](https://github.com/nukchix/github-readme-stats)
+[![Nukchix's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nukchix)](https://github.com/Nukchix/Nukchix)
