@@ -7,4 +7,4 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nukchix&show_icons=true&theme=dark)
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Nukchix&theme=dark)]()
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nukchix&theme=dark)]()
