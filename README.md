@@ -3,4 +3,4 @@
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nukchix&show_icons=true&theme=dark)
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nukchix&theme=dark)]()
+[![Wakatime stats](https://github-stats-extended.vercel.app/api/wakatime?username=nukchix&theme=dark)]()
